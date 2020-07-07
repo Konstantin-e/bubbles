@@ -1,1 +1,3 @@
 # bubbles
+
+![](./demo/demo.gif)
